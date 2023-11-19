@@ -3,7 +3,7 @@ import java.util.HashMap;
 class Source {
 
   public static int fib(int n) {
-    fib(n, new HashMap<>())
+    return fib(n, new HashMap<>());
     
   }
   //Main function with supercharged method
