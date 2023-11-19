@@ -1,4 +1,6 @@
-# Dynamic_Programming_Java_FreeCodeCamp
+# Dynamic_Programming_Java_FreeCodeCamp 
+
+## This course was developed by Alvin Zablan from Structy.
 
 
 ## Bibliography:
@@ -15,6 +17,9 @@ https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
 https://artemislena.eu/watch?v=Hdr64lKQ3e4
 
+2 -  Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges. This course was developed by Alvin Zablan from Coderbyte to FreeCodeCamp. 2021.
+
+https://www.youtube.com/watch?v=oBt53YbR9Kk
 
 #### Learn Java Fundamentals; Object-Oriented Programming. Book:
 
