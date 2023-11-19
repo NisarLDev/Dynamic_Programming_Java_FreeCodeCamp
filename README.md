@@ -81,6 +81,9 @@ https://artemislena.eu/watch?v=9Jry5-82I68
 
 https://artemislena.eu/watch?v=IJDJ0kBx2LM
 
+2 - Recursion and Dictionaries. MIT OpenCourseWare.
+
+https://www.youtube.com/watch?v=WPSeyjX1-4s
 
 #### Computational Complexity:
 
