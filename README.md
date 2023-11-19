@@ -85,6 +85,12 @@ https://artemislena.eu/watch?v=IJDJ0kBx2LM
 
 https://www.youtube.com/watch?v=WPSeyjX1-4s
 
+#### Graph Algorithims:
+
+ 1 - Graph Algorithms for Technical Interviews - Full Course. This course was developed by Alvin Zablan from Coderbyte to FreeCodeCamp. 2021.
+
+ https://artemislena.eu/watch?v=tWVWeAqZ0WU
+
 #### Computational Complexity:
 
 1 - Lecture 23: Computational Complexity. MIT OpenCourseWare.
