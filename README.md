@@ -67,13 +67,13 @@ https://artemislena.eu/watch?v=tp4_UXaVyx8
 
 5 -  Binary Tree Algorithms for Technical Interviews - Full Course. This course was developed by Alvin Zablan from Structy. FreeCodeCamp.
 
-https://www.youtube.com/watch?v=fAAZixBzIAI
+https://artemislena.eu/watch?v=fAAZixBzIAI
 
 #### Binary Search Trees:
 
 1 -  Lecture 5: Binary Search Trees, BST Sort 
 
-https://www.youtube.com/watch?v=9Jry5-82I68
+https://artemislena.eu/watch?v=9Jry5-82I68
 
 
 #### Computational Complexity:
