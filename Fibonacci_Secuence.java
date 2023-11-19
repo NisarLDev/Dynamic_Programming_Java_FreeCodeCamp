@@ -16,6 +16,7 @@ class Source {
     }
     int result = fib(n - 1, memo) + fib(n - 2, memo);
     memo.put(n, result);
+    return result;
   }
 public static void run() {
   // This function behaves as 'main()' for the 'run' command
