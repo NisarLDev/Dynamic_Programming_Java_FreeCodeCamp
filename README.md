@@ -5,6 +5,18 @@ Bibliography:
 
 Grammar of the word programming and its difference between British and American English:
 
-1 - https://strategiesforparents.com/programming-or-programing-which-is-correct/
+1 - Programming or Programing: Which Is Correct?:
+
+https://strategiesforparents.com/programming-or-programing-which-is-correct/
+
+
+
+Binary Trees on Dinamic Programming:
+
+
+1 -  Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths. MIT OpenCourseWare.
+
+https://artemislena.eu/watch?v=OQ5jsbhAv_M
+
 
 
