@@ -9,7 +9,11 @@
 
 https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
+#### Introduction to Dinamic Programming:
 
+1 - Mastering Dynamic Programming - How to solve any interview problem (Part 1).
+
+https://artemislena.eu/watch?v=Hdr64lKQ3e4
 
 #### Binary Trees on Dinamic Programming:
 
