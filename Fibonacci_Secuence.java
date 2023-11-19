@@ -11,7 +11,11 @@ class Source {
     if (n == 0 || n == 1) {
       return n;
     }
-    return fib(n - 1, memo) + fib(n - 2, memo);
+    if (memo.containsKey(n)) {
+      return memo.get(n);
+    }
+    int result = fib(n - 1, memo) + fib(n - 2, memo);
+    memo.put(n, result);
   }
 public static void run() {
   // This function behaves as 'main()' for the 'run' command
