@@ -22,4 +22,10 @@ https://artemislena.eu/watch?v=OQ5jsbhAv_M
 
 https://artemislena.eu/watch?v=ENyox7kNKeY
 
+3 - Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack. MIT OpenCourseWare.
 
+https://artemislena.eu/watch?v=ocZMDMZwhCY
+
+4 - Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario Bros. MIT OpenCourseWare.
+
+https://artemislena.eu/watch?v=tp4_UXaVyx8
