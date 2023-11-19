@@ -4,7 +4,6 @@ class Source {
 
   public static int fib(int n) {
     return fib(n, new HashMap<>());
-    
   }
   //Main function with supercharged method
   public static init fib(int n, HashMap<Integer, Integer> memo) {
