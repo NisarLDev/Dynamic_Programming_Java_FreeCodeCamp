@@ -29,3 +29,7 @@ https://artemislena.eu/watch?v=ocZMDMZwhCY
 4 - Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario Bros. MIT OpenCourseWare.
 
 https://artemislena.eu/watch?v=tp4_UXaVyx8
+
+
+Computational Complexity:
+
