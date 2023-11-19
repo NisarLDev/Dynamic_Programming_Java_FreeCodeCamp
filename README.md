@@ -15,6 +15,9 @@ https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
 https://artemislena.eu/watch?v=Hdr64lKQ3e4
 
+#### Learn Java Fundamentals; Object-Oriented Programming. Book:
+
+1 - https://www.freecodecamp.org/news/learn-java-object-oriented-programming/
 
 #### Binary Trees on Dinamic Programming:
 
