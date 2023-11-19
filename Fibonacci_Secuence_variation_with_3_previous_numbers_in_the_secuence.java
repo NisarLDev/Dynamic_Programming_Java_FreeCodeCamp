@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 class Source {
   public static int tribonacci(int n) {
-    return tribonacci(n, , new HashMap<>());
+    return tribonacci(n, new HashMap<>());
   }
   
   public static int tribonacci(int n, HashMap<Integer, Integer> memo) {
@@ -15,7 +15,7 @@ class Source {
     if (memo.containsKey(n)) {
       return memo.get(n);
     }
-    int result = tribonacci(n - 1) + tribonacci(n -2) + tribonacci( -3);
+    int result = tribonacci(n - 1, memo) + tribonacci(n -2, memo) + tribonacci( -3, memo);
     memo.put(n, result);
     return result;
   }
