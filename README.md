@@ -18,5 +18,8 @@ Binary Trees on Dinamic Programming:
 
 https://artemislena.eu/watch?v=OQ5jsbhAv_M
 
+2 -  Lecture 20: Dynamic Programming II: Text Justification, Blackjack. MIT OpenCourseWare.
+
+https://artemislena.eu/watch?v=ENyox7kNKeY
 
 
