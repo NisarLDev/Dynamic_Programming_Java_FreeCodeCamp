@@ -1,7 +1,7 @@
 # Dynamic_Programming_Java_FreeCodeCamp
 
 
-Bibliography:
+## Bibliography:
 
 Grammar of the word programming and its difference between British and American English:
 
