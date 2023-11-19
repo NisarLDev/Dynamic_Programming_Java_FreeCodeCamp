@@ -34,3 +34,5 @@ https://artemislena.eu/watch?v=tp4_UXaVyx8
 Computational Complexity:
 
 1 - Lecture 23: Computational Complexity. MIT OpenCourseWare.
+
+https://artemislena.eu/watch?v=moPtwq_cVH8
