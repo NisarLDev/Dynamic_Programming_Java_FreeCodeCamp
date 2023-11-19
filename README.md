@@ -15,8 +15,8 @@ https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
 https://artemislena.eu/watch?v=Hdr64lKQ3e4
 
-#### Binary Trees on Dinamic Programming:
 
+#### Binary Trees on Dinamic Programming:
 
 1 -  Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths. MIT OpenCourseWare.
 
