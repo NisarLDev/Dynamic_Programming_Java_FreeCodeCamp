@@ -11,7 +11,7 @@ https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
 
 
-### Binary Trees on Dinamic Programming:
+#### Binary Trees on Dinamic Programming:
 
 
 1 -  Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths. MIT OpenCourseWare.
@@ -31,14 +31,14 @@ https://artemislena.eu/watch?v=ocZMDMZwhCY
 https://artemislena.eu/watch?v=tp4_UXaVyx8
 
 
-### Binary Search Trees:
+#### Binary Search Trees:
 
 1 -  Lecture 5: Binary Search Trees, BST Sort 
 
 https://www.youtube.com/watch?v=9Jry5-82I68
 
 
-### Computational Complexity:
+#### Computational Complexity:
 
 1 - Lecture 23: Computational Complexity. MIT OpenCourseWare.
 
