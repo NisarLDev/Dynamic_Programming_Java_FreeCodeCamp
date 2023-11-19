@@ -83,7 +83,11 @@ https://artemislena.eu/watch?v=IJDJ0kBx2LM
 
 2 - Recursion and Dictionaries. MIT OpenCourseWare.
 
-https://www.youtube.com/watch?v=WPSeyjX1-4s
+https://artemislena.eu/watch?v=WPSeyjX1-4s
+
+3 -  Introduction to Recursion - Learn In The Best Way.
+
+https://artemislena.eu/watch?v=M2uO2nMT0Bk
 
 #### Graph Algorithims:
 
