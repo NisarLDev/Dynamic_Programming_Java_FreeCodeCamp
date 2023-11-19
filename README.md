@@ -75,6 +75,12 @@ https://artemislena.eu/watch?v=fAAZixBzIAI
 
 https://artemislena.eu/watch?v=9Jry5-82I68
 
+#### Recursion in Programming:
+
+1 -  Recursion in Programming - Full Course. FreeCodeCamp.
+
+https://artemislena.eu/watch?v=IJDJ0kBx2LM
+
 
 #### Computational Complexity:
 
