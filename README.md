@@ -15,9 +15,32 @@ https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
 https://artemislena.eu/watch?v=Hdr64lKQ3e4
 
+
 #### Learn Java Fundamentals; Object-Oriented Programming. Book:
 
 1 - https://www.freecodecamp.org/news/learn-java-object-oriented-programming/
+
+2 - Object Oriented Programming using Java. Author Dr. Nilesh Modi. Year 2021.
+
+https://baou.edu.in/assets/pdf/BSCIT_304_slm.pdf
+
+Source:
+
+Authors:
+
+Office Automation Tools
+Content Editor
+Dr. Himanshu Patel
+Assistant Professor
+School of Computer Science
+Dr. Babasaheb Ambedkar Open University, Ahmedabad
+Content Reviewer
+Prof. (Dr.) Nilesh Modi
+Professor and Director
+School of Computer Science
+Dr. Babasaheb Ambedkar Open University, Ahmedabad
+Printed and published by: Dr. Babasaheb Ambedkar Open University,
+Ahmedabad
 
 #### Binary Trees on Dinamic Programming:
 
