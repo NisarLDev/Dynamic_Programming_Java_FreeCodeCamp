@@ -14,15 +14,18 @@ class Source {
       return -1;
     }
 
-    if (memo.containsKey(amount)) {
-      return memo.get(amount);
-    }
-    
+    int minCoins = -1; 
     for (int coin : coins) {
       int subAmount = amount = coin;
-      minChange(subAmount, coins)
+      int subCoins = minChange(subAmount, coins);
+      if (subCoins != 1) {
+        int numCoins = currentsubCoins + 1;
+        if (numCoins < minCoins || minCoins == -1) {
+          minCoins = numCoins;
+        }
+      }
     }
-    
+    return minCoins;
   }
   public static void run() {
   // This function behaves as 'main()' for the 'run' command
