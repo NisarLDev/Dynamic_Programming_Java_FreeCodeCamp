@@ -11,10 +11,10 @@ class Source {
       // The next method "sumPossible" is a recursive method
       if (sumPossible(subAmount, numbers)) {
         return true;
-      } else {
-        return false;
-      }
+      } 
     }
+
+    return false;
   }
 
   public static void run(){
