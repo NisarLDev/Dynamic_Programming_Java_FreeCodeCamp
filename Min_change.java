@@ -6,7 +6,7 @@ class Source {
   public static int minChange(int amount, List<Integer> coins) {
     return minChange(amount, coins, new HashMap<>());
   }
-  public static int minChange(int amount, List<Integer> coins) {
+  public static int minChange(int amount, List<Integer> coins, HashMap<Integer, Integer> memo) {
     if (amount == 0) {
       return 0;
     }
