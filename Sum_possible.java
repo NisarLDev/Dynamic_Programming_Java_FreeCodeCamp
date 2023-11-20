@@ -2,8 +2,9 @@ import java.util.List;
 
 class Source {
   public static boolean sumPossible(int amount, List<Integer> numbers) {
-    // todo
-    return;
+    if (amount == 0) {
+      return true;
+    }
   }
 
   public static void run(){
