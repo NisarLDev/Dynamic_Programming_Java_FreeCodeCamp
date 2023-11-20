@@ -5,7 +5,7 @@ class Source {
   public static int countPaths(List<List<Strings>> grid){
     return countPaths(0, 0, grid, new HashMap<>());
   }
-  public static int countPaths(int r, int c, List<List<Strings>> grid, HashMap<>){
+  public static int countPaths(int r, int c, List<List<Strings>> grid, HashMap<List<Integer, Integer> memo){
     if (r == grid.size() || c == grid.get(0).size()) {
       return 0;
     }
