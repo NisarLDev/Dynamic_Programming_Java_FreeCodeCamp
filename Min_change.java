@@ -9,7 +9,13 @@ class Source {
     if (amount == 0) {
       return 0;
     }
-    
+    if (amount < 0) {
+      return -1;
+    }
+
+    if (memo.containsKey(amount)) {
+      return memo.get(amount);
+    }
     for (int coin : coins) {
       int subAmount = amount = coin;
       minChange(subAmount, coins)
