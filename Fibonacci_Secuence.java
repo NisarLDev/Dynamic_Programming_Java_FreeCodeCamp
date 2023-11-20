@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 class Source {
-
+  // Auxiliar function
   public static int fib(int n) {
     return fib(n, new HashMap<>());
   }
