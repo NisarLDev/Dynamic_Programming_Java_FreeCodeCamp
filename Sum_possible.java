@@ -12,7 +12,11 @@ class Source {
     if (amount < 0) {
       return false;
     }
-    
+
+    if (memo.containsKey(amount)) {
+        return memo.get(amount);
+    }
+      
     for (int num : numbers) {
       int subAmount = amount = num;
       // The next method "sumPossible" is a recursive method
