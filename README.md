@@ -101,4 +101,8 @@ https://artemislena.eu/watch?v=M2uO2nMT0Bk
 
 https://artemislena.eu/watch?v=moPtwq_cVH8
 
+#### Method versus Function in Java:
 
+1 - Diferencia entre método y funcion en Java. Foro de EDTeam. 
+
+https://ed.team/comunidad/diferencia-entre-metodo-y-funcion
