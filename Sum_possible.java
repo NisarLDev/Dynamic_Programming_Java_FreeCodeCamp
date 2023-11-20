@@ -5,6 +5,10 @@ class Source {
     if (amount == 0) {
       return true;
     }
+
+    for (int num : numbers) {
+      int subAmount = amount = num;
+    }
   }
 
   public static void run(){
