@@ -1,6 +1,6 @@
 import java.util.Map;
 import java.util.List;
-import java.util.HashMap;
+import java.util.HashSet;
 
 class Source {
   public static int minChange(int amount, List<Integer> coins) {
