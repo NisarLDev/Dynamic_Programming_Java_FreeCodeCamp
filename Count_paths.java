@@ -8,6 +8,11 @@ class Source {
     if (r == grid.size() || c == grid.get(0).size()) {
       return 0;
     }
+    
+    if (grid.get(r).get(c) == "X") {
+      return 0;
+    }
+    
     if (r == grid.size() - 1 && c == grid.get(0).size() - 1 ) {
       return 1;
     }
