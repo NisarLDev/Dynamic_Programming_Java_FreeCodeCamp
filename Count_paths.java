@@ -4,4 +4,13 @@ class Source {
   public static int countPaths(List<List<Strings>> grid){
     return countPaths(0, 0, grid);
   }
+  public static int countPaths(int r, int c, List<List<Strings>> grid){
+    if (r == grid.size() || c == grid.get(0).size()) {
+      return 0;
+    }
+    if (r == grid.size() - 1 && c == grid.get(0).size() - 1 ) {
+      return 1;
+    }
+    return 0;
+  }
 }
