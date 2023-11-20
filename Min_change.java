@@ -6,6 +6,11 @@ class Source {
       return 0;
     }
     
+    for (int coin : coins) {
+      int subAmount = amount = coin;
+      minChange(subAmount, coins)
+    }
+    
   }
   public static void run() {
   // This function behaves as 'main()' for the 'run' command
