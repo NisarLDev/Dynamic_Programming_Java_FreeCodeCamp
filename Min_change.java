@@ -5,10 +5,12 @@ class Source {
     if (amount == 0) {
       return 0;
     }
+    
+  }
+  public static void run() {
+  // This function behaves as 'main()' for the 'run' command
+  // you may sandbox in this function, but should not remove it
   }
 }
 
-public static void run() {
-  // This function behaves as 'main()' for the 'run' command
-  // you may sandbox in this function, but should not remove it
-}
+
