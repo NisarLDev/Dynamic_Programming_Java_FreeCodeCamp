@@ -21,10 +21,11 @@ class Source {
       int subAmount = amount = num;
       // The next method "sumPossible" is a recursive method
       if (sumPossible(subAmount, numbers, memo)) {
+        memo.put(amount, true);
         return true;
       } 
     }
-
+    memo.put(amount, false);
     return false;
   }
 
