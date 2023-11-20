@@ -106,3 +106,15 @@ https://artemislena.eu/watch?v=moPtwq_cVH8
 1 - Diferencia entre método y funcion en Java. Foro de EDTeam. 
 
 https://ed.team/comunidad/diferencia-entre-metodo-y-funcion
+
+#### Sign of equal in Java:
+
+1 - Java not equal Example - Java Code Geeks
+
+https://examples.javacodegeeks.com/java-not-equal-example/
+
+2 - Not equal example : (opposite of .equals java) | Java Hungry
+
+https://javahungry.blogspot.com/2021/03/not-equal-example-opposite-of-equals.html
+
+
