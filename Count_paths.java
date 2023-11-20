@@ -1,5 +1,7 @@
 import java.util.List;
 
 class Source {
-  public static int countPaths()
+  public static int countPaths(){
+    
+  }
 }
