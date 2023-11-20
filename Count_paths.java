@@ -17,6 +17,6 @@ class Source {
     if (r == grid.size() - 1 && c == grid.get(0).size() - 1 ) {
       return 1;
     }
-    return  countPaths(r + 1, c, grid) + countPaths(r, c + 1, grid);
+    int result = countPaths(r + 1, c, grid, memo) + countPaths(r, c + 1, grid, memo);
   }
 }
