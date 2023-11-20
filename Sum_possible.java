@@ -2,6 +2,9 @@ import java.util.List;
 import java.util.HashMap;
 
 class Source {
+    public static boolean sumPossible(int amount, List<Integer> numbers) {
+   
+  }
   public static boolean sumPossible(int amount, List<Integer> numbers, HashMap<Integer, Boolean>) {
     if (amount == 0) {
       return true;
