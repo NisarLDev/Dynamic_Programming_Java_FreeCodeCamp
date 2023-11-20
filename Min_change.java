@@ -1,3 +1,4 @@
+import java.util.Map;
 import java.util.List;
 import java.util.HashMap;
 
@@ -16,6 +17,7 @@ class Source {
     if (memo.containsKey(amount)) {
       return memo.get(amount);
     }
+    
     for (int coin : coins) {
       int subAmount = amount = coin;
       minChange(subAmount, coins)
