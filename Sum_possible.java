@@ -5,7 +5,10 @@ class Source {
     if (amount == 0) {
       return true;
     }
-
+    if (amount < 0) {
+      return false;
+    }
+    
     for (int num : numbers) {
       int subAmount = amount = num;
       // The next method "sumPossible" is a recursive method
