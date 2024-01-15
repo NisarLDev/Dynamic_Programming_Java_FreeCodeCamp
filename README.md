@@ -21,6 +21,14 @@ https://artemislena.eu/watch?v=Hdr64lKQ3e4
 
 https://www.youtube.com/watch?v=oBt53YbR9Kk
 
+3 - Complete Dynamic Programming Practice - Noob to Expert | Topic Stream 1
+
+https://yt.artemislena.eu/watch?v=zDEQaDl3cso&t=0
+
+4 - Complete Dynamic Programming Practice - Noob to Expert (Continued) | Topic Stream 2
+
+https://yt.artemislena.eu/watch?v=kCY8seazgFU&t=0
+
 #### Learn Java Fundamentals; Object-Oriented Programming. Book:
 
 1 - https://www.freecodecamp.org/news/learn-java-object-oriented-programming/
