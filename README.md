@@ -13,10 +13,13 @@ https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
 ####  Thinking to solve a problem using algorithms
 
-1 -  Lecture 1: Algorithmic Thinking, Peak Finding
+1 -  Lecture 1: Algorithmic Thinking, Peak Finding. Rabin Gaire.
 
 https://yt.artemislena.eu/watch?v=HtSuA80QTyo&listen=false
 
+2 - Algorithmic Thinking, Peak Finding. Rabin Gaire.
+
+https://rabingaire.medium.com/algorithmic-thinking-peak-finding-ad6f7415d154
 
 #### Introduction to Dinamic Programming:
 
