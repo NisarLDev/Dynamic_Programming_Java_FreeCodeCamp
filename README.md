@@ -11,6 +11,13 @@
 
 https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
+#### Thinking to resolve a problem
+
+1 -  Lecture 1: Algorithmic Thinking, Peak Finding
+
+https://yt.artemislena.eu/watch?v=HtSuA80QTyo&listen=false
+
+
 #### Introduction to Dinamic Programming:
 
 1 - Mastering Dynamic Programming - How to solve any interview problem (Part 1).
