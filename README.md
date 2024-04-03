@@ -20,9 +20,13 @@ https://yt.artemislena.eu/watch?v=HtSuA80QTyo&listen=false
 
 #### Introduction to Dinamic Programming:
 
-1 - Mastering Dynamic Programming - How to solve any interview problem (Part 1).
+1 - Mastering Dynamic Programming: Part 1 - How to solve any interview problem
 
 https://artemislena.eu/watch?v=Hdr64lKQ3e4
+
+2 - Mastering Dynamic Programming: Part 2 - Let's Solve a Real-Life Problem
+
+https://yt.artemislena.eu/watch?v=rE5h11FwiVw&listen=false
 
 2 -  Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges. This course was developed by Alvin Zablan from Coderbyte to FreeCodeCamp. 2021.
 
