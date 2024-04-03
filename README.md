@@ -11,7 +11,7 @@
 
 https://strategiesforparents.com/programming-or-programing-which-is-correct/
 
-#### Thinking to resolve a problem
+####  Thinking to solve a problem using algorithms
 
 1 -  Lecture 1: Algorithmic Thinking, Peak Finding
 
