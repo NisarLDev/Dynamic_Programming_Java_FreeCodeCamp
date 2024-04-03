@@ -21,6 +21,10 @@ https://yt.artemislena.eu/watch?v=HtSuA80QTyo&listen=false
 
 https://rabingaire.medium.com/algorithmic-thinking-peak-finding-ad6f7415d154
 
+3 - Four Ways of Thinking: Statistical, Interactive, Chaotic and Complex - David Sumpter. Oxford Mathematics.
+
+https://yt.artemislena.eu/watch?v=PPCfDe8TfJQ&listen=false
+
 #### Introduction to Dinamic Programming:
 
 1 - Mastering Dynamic Programming: Part 1 - How to solve any interview problem
